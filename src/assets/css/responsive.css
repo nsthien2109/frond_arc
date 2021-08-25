@@ -1,0 +1,122 @@
+/* IPAD */
+@media screen and (min-width: 768px ) and (max-width: 1024px){
+    .swiper-slide{
+        width: 45% !important;
+    }
+    .mobile-about-header{
+        width : 100% !important;
+    }
+}
+
+@media screen and (max-width:880px) {
+    .BlogContent__list,
+    .BlogContent__filter{
+        width : 100% !important;
+        padding: 20px 10px !important;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .swiper-slide,.projectList__item-mobile{
+        width: 100% !important;
+    }
+    .Navbar{
+        padding: 0 10px;
+        display: none;
+    }
+
+    .Navbar__mobile{
+        display :flex!important;
+    }
+    .Navbar__mobile-container{
+        display: block !important;
+    }
+
+    .SliderContainer{
+        padding : 0 15px !important;
+    }
+
+    .AboutHome,.DiscoverProjectHome{
+        margin-top: 15% !important;
+        padding : 0 15px !important;
+    }
+    .mobile-about-header{
+        width : 100% !important; 
+    }
+    .AboutHomeContent_line,.DiscoverProjectContent_line{
+        display: none;
+    }
+    .AboutHomeContentText,.DiscoverProjectContentText{
+        width : 100% !important; 
+    }
+    .AboutHomeContent-text-mobile{
+        width : 100% !important; 
+    }
+    .AboutHomeContent_Right-mobile{
+        width : 100% !important; 
+    }
+    /* ABOUT Partner */
+
+    .AboutPartner__container{
+        display : flex;
+        flex-direction : column;
+        justify-content : center;
+        align-items : center;
+    }
+
+    .AboutPartner__intro{
+        width : 100% !important; 
+        padding: 20px 10px;
+    }
+
+    .AboutPartner__card{
+        width : 50% !important;
+       margin-top : 15px;
+    }
+
+    .AboutPartner__card img{
+        padding : 5px;
+    }
+
+    .Discover__header-mobile{
+        width : 100% !important;
+    }
+
+    .Service__card{
+        width : 100% !important;
+        
+    }
+
+    .Service__item{
+        display: flex;
+        align-items : center;
+        flex-direction: column;
+        justify-content : center;
+    }
+
+
+    .footer{
+        padding : 18px 15px !important;
+    }
+
+    .footer__logo,
+    .footer__getintouch,
+    .footer__location,
+    .footer__social{
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    .AboutTeam__card{
+        width : 100% !important;
+    }
+    .mobile-about-header{
+        width : 100% !important;
+    }
+    .BlogContent{
+        margin: 30px 10px!important;
+        padding: 50px 10px!important;
+    }
+}
+/* MOBILE */
+
+

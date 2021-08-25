@@ -1,0 +1,189 @@
+{
+    "projects":[
+        {
+            "id":"1",
+            "name": " Twin Drana Plaza",
+            "img" :[
+                {
+                    "img_1": "https://images.pexels.com/photos/2462015/pexels-photo-2462015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                    "img_2": "b",
+                    "img_3": "c",
+                    "img_4": "d",
+                    "img_5": "ea",
+                    "img_6": "f"
+                }
+            ],
+            "description":"The Crowne Plaza tristique nisl felis, at volutpat erat hendrerit ac. Proin ultricies nibh noneu maximus scelerisque. Integer molliser faucibus neque nec tincidunt. Aliquam erat volutpat. Praeser tempor maluada quam nec rutue arcu ornare sed. Duru eget ligula at nibh viverra ultriciesi. Nunc eu dui tortor. Integer the iaculis urna. Canada ultricies nibh non dolor maximus sceleue. Integer molliser fauci neque nec tincidunte. Aliquam eratye volutpat. Praeser tempor maladi quam, nec rutrum arcu ornare sed. Duru egiter ligula at nibh viverra ultricies. Nunc lorem vivense design torral ipsum dolar a ranish maximus. Duru egiter ligula at nibh viverra ultricie tunc lorem vivense design.",
+            "year_completed" : "2010",
+            "location" : " Ottova, Canada"
+        },
+        {
+            "id":"2",
+            "name": " Twin Drana Plaza",
+            "img" :[
+                {
+                    "img_1": "https://images.pexels.com/photos/1190897/pexels-photo-1190897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                    "img_2": "b",
+                    "img_3": "c",
+                    "img_4": "d",
+                    "img_5": "e",
+                    "img_6": "f"
+                }
+            ],
+            "description":"The Crowne Plaza tristique nisl felis, at volutpat erat hendrerit ac. Proin ultricies nibh noneu maximus scelerisque. Integer molliser faucibus neque nec tincidunt. Aliquam erat volutpat. Praeser tempor maluada quam nec rutue arcu ornare sed. Duru eget ligula at nibh viverra ultriciesi. Nunc eu dui tortor. Integer the iaculis urna. Canada ultricies nibh non dolor maximus sceleue. Integer molliser fauci neque nec tincidunte. Aliquam eratye volutpat. Praeser tempor maladi quam, nec rutrum arcu ornare sed. Duru egiter ligula at nibh viverra ultricies. Nunc lorem vivense design torral ipsum dolar a ranish maximus. Duru egiter ligula at nibh viverra ultricie tunc lorem vivense design.",
+            "year_completed" : "2010",
+            "location" : " Ottova, Canada"
+        },
+        {
+            "id":"3",
+            "name": " Twin Drana Plaza",
+            "img" :[
+                {
+                    "img_1": "https://images.pexels.com/photos/1029618/pexels-photo-1029618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                    "img_2": "b",
+                    "img_3": "c",
+                    "img_4": "d",
+                    "img_5": "e",
+                    "img_6": "f"
+                }
+            ],
+            "description":"The Crowne Plaza tristique nisl felis, at volutpat erat hendrerit ac. Proin ultricies nibh noneu maximus scelerisque. Integer molliser faucibus neque nec tincidunt. Aliquam erat volutpat. Praeser tempor maluada quam nec rutue arcu ornare sed. Duru eget ligula at nibh viverra ultriciesi. Nunc eu dui tortor. Integer the iaculis urna. Canada ultricies nibh non dolor maximus sceleue. Integer molliser fauci neque nec tincidunte. Aliquam eratye volutpat. Praeser tempor maladi quam, nec rutrum arcu ornare sed. Duru egiter ligula at nibh viverra ultricies. Nunc lorem vivense design torral ipsum dolar a ranish maximus. Duru egiter ligula at nibh viverra ultricie tunc lorem vivense design.",
+            "year_completed" : "2010",
+            "location" : " Ottova, Canada"
+        },
+        {
+            "id":"4",
+            "name": " Twin Drana Plaza",
+            "img" :[
+                {
+                    "img_1": "https://images.pexels.com/photos/1021198/pexels-photo-1021198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                    "img_2": "b",
+                    "img_3": "c",
+                    "img_4": "d",
+                    "img_5": "e",
+                    "img_6": "f"
+                }
+            ],
+            "description":"The Crowne Plaza tristique nisl felis, at volutpat erat hendrerit ac. Proin ultricies nibh noneu maximus scelerisque. Integer molliser faucibus neque nec tincidunt. Aliquam erat volutpat. Praeser tempor maluada quam nec rutue arcu ornare sed. Duru eget ligula at nibh viverra ultriciesi. Nunc eu dui tortor. Integer the iaculis urna. Canada ultricies nibh non dolor maximus sceleue. Integer molliser fauci neque nec tincidunte. Aliquam eratye volutpat. Praeser tempor maladi quam, nec rutrum arcu ornare sed. Duru egiter ligula at nibh viverra ultricies. Nunc lorem vivense design torral ipsum dolar a ranish maximus. Duru egiter ligula at nibh viverra ultricie tunc lorem vivense design.",
+            "year_completed" : "2010",
+            "location" : " Ottova, Canada"
+        },
+        {
+            "id":"5",
+            "name": " Twin Drana Plaza",
+            "img" :[
+                {
+                    "img_1": "https://images.pexels.com/photos/3004107/pexels-photo-3004107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                    "img_2": "b",
+                    "img_3": "c",
+                    "img_4": "d",
+                    "img_5": "e",
+                    "img_6": "f"
+                }
+            ],
+            "description":"The Crowne Plaza tristique nisl felis, at volutpat erat hendrerit ac. Proin ultricies nibh noneu maximus scelerisque. Integer molliser faucibus neque nec tincidunt. Aliquam erat volutpat. Praeser tempor maluada quam nec rutue arcu ornare sed. Duru eget ligula at nibh viverra ultriciesi. Nunc eu dui tortor. Integer the iaculis urna. Canada ultricies nibh non dolor maximus sceleue. Integer molliser fauci neque nec tincidunte. Aliquam eratye volutpat. Praeser tempor maladi quam, nec rutrum arcu ornare sed. Duru egiter ligula at nibh viverra ultricies. Nunc lorem vivense design torral ipsum dolar a ranish maximus. Duru egiter ligula at nibh viverra ultricie tunc lorem vivense design.",
+            "year_completed" : "2010",
+            "location" : " Ottova, Canada"
+        },
+        {
+            "id":"6",
+            "name": " Twin Drana Plaza",
+            "img" :[
+                {
+                    "img_1": "https://images.pexels.com/photos/2297185/pexels-photo-2297185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                    "img_2": "b",
+                    "img_3": "c",
+                    "img_4": "d",
+                    "img_5": "e",
+                    "img_6": "f"
+                }
+            ],
+            "description":"The Crowne Plaza tristique nisl felis, at volutpat erat hendrerit ac. Proin ultricies nibh noneu maximus scelerisque. Integer molliser faucibus neque nec tincidunt. Aliquam erat volutpat. Praeser tempor maluada quam nec rutue arcu ornare sed. Duru eget ligula at nibh viverra ultriciesi. Nunc eu dui tortor. Integer the iaculis urna. Canada ultricies nibh non dolor maximus sceleue. Integer molliser fauci neque nec tincidunte. Aliquam eratye volutpat. Praeser tempor maladi quam, nec rutrum arcu ornare sed. Duru egiter ligula at nibh viverra ultricies. Nunc lorem vivense design torral ipsum dolar a ranish maximus. Duru egiter ligula at nibh viverra ultricie tunc lorem vivense design.",
+            "year_completed" : "2010",
+            "location" : " Ottova, Canada"
+        }
+    ],
+    "design_team":[
+        {
+            "id" : "1",
+            "name" :"FIONA VELVA",
+            "position" : "Architect",
+            "sevices" : "dipl. Arch ETH/SIA",
+            "img" : "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+            "id" : "2",
+            "name" :"FIONA VELVA",
+            "position" : "Architect",
+            "sevices" : "dipl. Arch ETH/SIA",
+            "img" : "https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+            "id" : "3",
+            "name" :"FIONA VELVA",
+            "position" : "Architect",
+            "sevices" : "dipl. Arch ETH/SIA",
+            "img" : "https://images.pexels.com/photos/5973902/pexels-photo-5973902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+    ],
+    "partner_logo" : [
+        {
+            "id" : "1",
+            "logo_p" : "http://duruthemes.com/demo/html/arcprime/light/images/logos/1.png"
+        },
+        {
+            "id" : "2",
+            "logo_p" : "http://duruthemes.com/demo/html/arcprime/light/images/logos/2.png"
+        },
+        {
+            "id" : "3",
+            "logo_p" : "http://duruthemes.com/demo/html/arcprime/light/images/logos/3.png"
+        },
+        {
+            "id" : "4",
+            "logo_p" : "http://duruthemes.com/demo/html/arcprime/light/images/logos/4.png"
+        },
+        {
+            "id" : "5",
+            "logo_p" : "http://duruthemes.com/demo/html/arcprime/light/images/logos/5.png"
+        },
+        {
+            "id" : "6",
+            "logo_p" : "http://duruthemes.com/demo/html/arcprime/light/images/logos/6.png"
+        },
+        {
+            "id" : "7",
+            "logo_p" : "http://duruthemes.com/demo/html/arcprime/light/images/logos/7.png"
+        },
+        {
+            "id" : "8",
+            "logo_p" : "http://duruthemes.com/demo/html/arcprime/light/images/logos/8.png"
+        }
+    ],
+    "blog":[
+        {
+            "id":"1",
+            "blog_type":"EXTERIOR",
+            "blog_name":"Modern Architectural Structures",
+            "blog_img":"http://duruthemes.com/demo/html/arcprime/light/images/blog/blog-02.jpg",
+            "blog_sumary":"Visualizing architecture design libero libero, eget cursus ex maximus non kuisque volutpat venenatis lacus sed the hendrerit nisi. Vivense facilisis libero libero eget cursus ex maximus non kuisque volutpat venenatis lacus sed hendrerit the drana connect...",
+            "blog_time": "24 July 2021"
+        },
+        {
+            "id":"2",
+            "blog_type":"ARCHITECTURE",
+            "blog_name":"Daily Dose of Architecture",
+            "blog_img":"http://duruthemes.com/demo/html/arcprime/light/images/blog/blog-01.jpg",
+            "blog_sumary":"Daily dose of architecture facilisis libero libero, eget cursus ex maximus non kuisque volutpat venenatis lacus sed the hendrerit nisi. Vivense facilisis libero libero eget cursus ex maximus non kuisque volutpat venenatis lacus sed hendrerit the drana connect...",
+            "blog_time": "21 July 2021"
+        },
+        {
+            "id":"3",
+            "blog_type":"STILL LIFE",
+            "blog_name":"The dawn of open architecture",
+            "blog_img":"http://duruthemes.com/demo/html/arcprime/light/images/blog/blog-03.jpg",
+            "blog_sumary":"The dawn of open architecture libero eget cursus ex maximus non kuisque volutpat venenatis lacus sed the hendrerit nisi. Vivense facilisis libero libero eget cursus ex maximus non kuisque volutpat venenatis lacus sed hendrerit the drana connect...",
+            "blog_time": "27 July 2021"
+        }
+    ]
+  }

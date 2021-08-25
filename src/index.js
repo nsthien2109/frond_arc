@@ -1,12 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import Navbar from './Components/Pages/Home/Nav';
+import Slider from './Components/Pages/Home/Slider';
+import AboutHome from './Components/Pages/Home/AboutHome';
+import DiscoverProject from './Components/Pages/Home/DiscoverProject';
+import Footer from './Components/Pages/Home/Footer';
+import NavbarMobile from './Components/Pages/Home/NavMobile';
+import RouterWeb from './route/Route'
+import './assets/css/responsive.css';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <RouterWeb/>
+    <Footer />
   </React.StrictMode>,
   document.getElementById('root')
 );
