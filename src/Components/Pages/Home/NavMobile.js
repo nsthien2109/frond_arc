@@ -1,14 +1,18 @@
 import logo from '../../../assets/logo.png';
 import '../../../assets/css/styles.css';
 import React from 'react';
+import {Link,} from "react-router-dom";
 import { RiMenuLine,RiCloseLine } from "react-icons/ri";
 
 class NavbarMobile extends React.Component {
     state = { isActive: false };
-
+ 
     handleToggle = () => {
         this.setState({ isActive: !this.state.isActive });
     };
+
+ 
+
   render () {
       const isActive = this.state.isActive;
         return (
@@ -21,24 +25,36 @@ class NavbarMobile extends React.Component {
                     </div>
                     <div className={isActive ? "open_nav_mobile Navbar__mobile-container" : "Navbar__mobile-container"}>
                         <ul className="Navbar__mobile-list">
-                            <li className="Navbar__mobile-item">
-                                <a href="#" className="Navbar__mobile-link">Home</a>
+                           <Link to="/">
+                            <li onClick={this.handleToggle} className="Navbar__mobile-item Navbar__mobile-link">
+                                Home
                             </li>
-                            <li className="Navbar__mobile-item">
-                                <a href="#" className="Navbar__mobile-link">About</a>
+                            </Link>
+                            <Link to="/about">
+                            <li onClick={this.handleToggle} className="Navbar__mobile-item Navbar__mobile-link">
+                                About
                             </li>
-                            <li className="Navbar__mobile-item">
-                                <a href="#" className="Navbar__mobile-link">Services</a>
+                            </Link>
+                            <Link to="/service">
+                            <li onClick={this.handleToggle} className="Navbar__mobile-item Navbar__mobile-link">
+                                Services
                             </li>
-                            <li className="Navbar__mobile-item">
-                                <a href="#" className="Navbar__mobile-link">Project</a>
+                            </Link>
+                            <Link to="/projects">
+                            <li onClick={this.handleToggle} className="Navbar__mobile-item Navbar__mobile-link">
+                                Project
                             </li>
-                            <li className="Navbar__mobile-item">
-                                <a href="#" className="Navbar__mobile-link">Blog</a>
+                            </Link>
+                            <Link  to="/blog">
+                            <li onClick={this.handleToggle} className="Navbar__mobile-item Navbar__mobile-link">
+                                Blog
                             </li>
-                            <li className="Navbar__mobile-item">
-                                <a href="#" className="Navbar__mobile-link">Contact</a>
+                            </Link>
+                            <Link to="/contact">
+                            <li onClick={this.handleToggle} className="Navbar__mobile-item Navbar__mobile-link">
+                                Contact
                             </li>
+                            </Link>
                         </ul>
                     </div>
                 </div>
