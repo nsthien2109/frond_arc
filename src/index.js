@@ -13,11 +13,6 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <React.StrictMode>
     <RouterWeb/>
-    <Navbar />
-    <NavbarMobile />
-    <Slider/>
-    <AboutHome/>
-    <DiscoverProject/>
     <Footer />
   </React.StrictMode>,
   document.getElementById('root')
